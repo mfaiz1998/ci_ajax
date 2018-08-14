@@ -1,0 +1,17 @@
+{
+  "name": "ci_ajax",
+  "homepage": "https://github.com/mfaiz1998/ci_ajax",
+  "authors": [
+    "Mas Faiz <faizdeveloperit@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MFA",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
